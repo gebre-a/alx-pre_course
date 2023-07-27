@@ -1,2 +1,2 @@
 ﻿My  first traing
-My first readme
+My first class
